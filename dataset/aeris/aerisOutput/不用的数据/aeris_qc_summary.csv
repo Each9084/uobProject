@@ -1,0 +1,2 @@
+﻿input_path,n_raw,n_kept,years_seen_after_filter,duplicates_rows,problem_rows,gap_rows,n_stations,n_days,roi_lon,roi_lat
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\aerisOutput\aeris_formatted.csv,22080,11960,"[2019, 2022]",0,32,915,5,184,"[2.15, 2.55] ± 0.009","[48.75, 48.95] ± 0.009"

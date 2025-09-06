@@ -1,0 +1,1142 @@
+{
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\LONGCHAMP_MTO-1H_2025-08-10\\75116008_LONGCHAMP_MTO_1H_2019.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\LONGCHAMP_MTO-1H_2025-08-10\\75116008_LONGCHAMP_MTO_1H_2022.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\LUXEMBOURG_MTO-1H_2025-08-10\\75106001_LUXEMBOURG_MTO_1H_2019.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\LUXEMBOURG_MTO-1H_2025-08-10\\75106001_LUXEMBOURG_MTO_1H_2022.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\PARIS-MONTSOURIS_MTO-1H_2025-08-10\\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\PARIS-MONTSOURIS_MTO-1H_2025-08-10\\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\ST-MAUR_MTO-1H_2025-08-12\\94068001_ST-MAUR_MTO_1H_2019.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  },
+  "D:\\PPT_Word_Exel\\2025\\Final_Project\\WorkSpace2\\aeris\\unzipped\\ST-MAUR_MTO-1H_2025-08-12\\94068001_ST-MAUR_MTO_1H_2022.nc": {
+    "candidates": [
+      "ta",
+      "ts_50",
+      "ts_20"
+    ],
+    "scored": [
+      {
+        "var": "ta",
+        "score": 9
+      },
+      {
+        "var": "ts_50",
+        "score": 4
+      },
+      {
+        "var": "ts_20",
+        "score": 4
+      },
+      {
+        "var": "ts_100",
+        "score": 4
+      },
+      {
+        "var": "ts_10",
+        "score": 4
+      },
+      {
+        "var": "ta_min",
+        "score": 4
+      },
+      {
+        "var": "ta_max",
+        "score": 4
+      },
+      {
+        "var": "td",
+        "score": 2
+      },
+      {
+        "var": "ws_max",
+        "score": 1
+      },
+      {
+        "var": "ws",
+        "score": 1
+      },
+      {
+        "var": "wd",
+        "score": 1
+      },
+      {
+        "var": "visi",
+        "score": 1
+      },
+      {
+        "var": "soil_st",
+        "score": 1
+      },
+      {
+        "var": "snow_height",
+        "score": 1
+      },
+      {
+        "var": "rh_min",
+        "score": 1
+      },
+      {
+        "var": "rh_max",
+        "score": 1
+      },
+      {
+        "var": "rh",
+        "score": 1
+      },
+      {
+        "var": "pres_sl",
+        "score": 1
+      },
+      {
+        "var": "pres",
+        "score": 1
+      },
+      {
+        "var": "nebulosity",
+        "score": 1
+      },
+      {
+        "var": "mws_max",
+        "score": 1
+      },
+      {
+        "var": "insolh_duration",
+        "score": 1
+      },
+      {
+        "var": "glo",
+        "score": 1
+      },
+      {
+        "var": "dxy",
+        "score": 1
+      },
+      {
+        "var": "dxi",
+        "score": 1
+      },
+      {
+        "var": "cumul_precip",
+        "score": 1
+      }
+    ],
+    "reason": "基于变量名/standard_name/long_name/单位/是否含time维度的启发式打分"
+  }
+}

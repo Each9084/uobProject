@@ -1,0 +1,261 @@
+﻿file,var,dims,dtype,units,standard_name,long_name,min,max
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,td,time,float32,Kelvin,dew_point_temperature,,266.04998779296875,294.95001220703125
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ta,time,float32,Kelvin,air_temperature,,268.3500061035156,314.3500061035156
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,269.04998779296875,315.04998779296875
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,268.04998779296875,314.04998779296875
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,rh,time,float32,%,relative_humidity,,14.0,100.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,rh_max,time,float32,%,,relative_humidity maximum,15.0,100.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,rh_min,time,float32,%,,relative_humidity minimum,12.0,100.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,wd,time,float32,degree,wind_from_direction,,0.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ws,time,float32,m.s^-1,wind_speed,,0.0,11.300000190734863
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,dxi,time,float32,degree,wind_from_direction,,0.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,0.0,26.799999237060547
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,0.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,0.0,12.300000190734863
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,cumul_precip,time,float32,mm,precipitation_amount,,0.0,14.300000190734863
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,visi,time,float32,m,visibility_in_air,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,soil_st,time,float32,code,,soil state,-1.0,-1.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,snow_height,time,float32,m,surface_snow_thickness,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,insolh_duration,time,float32,mn,,duration of insolation,0.0,60.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,0.0,3430000.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,pres,time,float32,Pa,air_pressure,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2019.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,td,time,float32,Kelvin,dew_point_temperature,,265.3500061035156,293.6499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ta,time,float32,Kelvin,air_temperature,,267.95001220703125,312.8500061035156
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,268.8500061035156,313.1499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,267.8500061035156,312.1499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,rh,time,float32,%,relative_humidity,,17.0,100.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,rh_max,time,float32,%,,relative_humidity maximum,20.0,100.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,rh_min,time,float32,%,,relative_humidity minimum,17.0,100.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,wd,time,float32,degree,wind_from_direction,,0.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ws,time,float32,m.s^-1,wind_speed,,0.0,10.100000381469727
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,dxi,time,float32,degree,wind_from_direction,,0.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,0.0,20.299999237060547
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,0.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,0.0,10.399999618530273
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,cumul_precip,time,float32,mm,precipitation_amount,,0.0,6.800000190734863
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,visi,time,float32,m,visibility_in_air,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,soil_st,time,float32,code,,soil state,-1.0,-1.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,snow_height,time,float32,m,surface_snow_thickness,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,insolh_duration,time,float32,mn,,duration of insolation,0.0,60.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,0.0,3400000.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,pres,time,float32,Pa,air_pressure,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LONGCHAMP_MTO-1H_2025-08-10\75116008_LONGCHAMP_MTO_1H_2022.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,td,time,float32,Kelvin,dew_point_temperature,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ta,time,float32,Kelvin,air_temperature,,270.3500061035156,315.04998779296875
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,270.45001220703125,308.45001220703125
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,270.3500061035156,307.75
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,rh,time,float32,%,relative_humidity,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,rh_max,time,float32,%,,relative_humidity maximum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,rh_min,time,float32,%,,relative_humidity minimum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,wd,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ws,time,float32,m.s^-1,wind_speed,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,dxi,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,cumul_precip,time,float32,mm,precipitation_amount,,0.0,17.399999618530273
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,visi,time,float32,m,visibility_in_air,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,soil_st,time,float32,code,,soil state,-1.0,-1.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,snow_height,time,float32,m,surface_snow_thickness,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,insolh_duration,time,float32,mn,,duration of insolation,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,pres,time,float32,Pa,air_pressure,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2019.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,td,time,float32,Kelvin,dew_point_temperature,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ta,time,float32,Kelvin,air_temperature,,268.95001220703125,313.3500061035156
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,269.04998779296875,313.54998779296875
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,268.95001220703125,312.8500061035156
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,rh,time,float32,%,relative_humidity,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,rh_max,time,float32,%,,relative_humidity maximum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,rh_min,time,float32,%,,relative_humidity minimum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,wd,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ws,time,float32,m.s^-1,wind_speed,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,dxi,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,cumul_precip,time,float32,mm,precipitation_amount,,0.0,29.200000762939453
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,visi,time,float32,m,visibility_in_air,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,soil_st,time,float32,code,,soil state,-1.0,-1.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,snow_height,time,float32,m,surface_snow_thickness,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,insolh_duration,time,float32,mn,,duration of insolation,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,pres,time,float32,Pa,air_pressure,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\LUXEMBOURG_MTO-1H_2025-08-10\75106001_LUXEMBOURG_MTO_1H_2022.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,td,time,float32,Kelvin,dew_point_temperature,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ta,time,float32,Kelvin,air_temperature,,270.75,314.3500061035156
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,270.95001220703125,315.1499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,270.6499938964844,314.1499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,rh,time,float32,%,relative_humidity,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,rh_max,time,float32,%,,relative_humidity maximum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,rh_min,time,float32,%,,relative_humidity minimum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,wd,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ws,time,float32,m.s^-1,wind_speed,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,dxi,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,cumul_precip,time,float32,mm,precipitation_amount,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,visi,time,float32,m,visibility_in_air,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,soil_st,time,float32,code,,soil state,-1.0,-1.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,snow_height,time,float32,m,surface_snow_thickness,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,insolh_duration,time,float32,mn,,duration of insolation,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,pres,time,float32,Pa,air_pressure,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,td,time,float32,Kelvin,dew_point_temperature,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ta,time,float32,Kelvin,air_temperature,,268.1499938964844,312.75
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,268.3500061035156,312.75
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,268.1499938964844,312.1499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,rh,time,float32,%,relative_humidity,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,rh_max,time,float32,%,,relative_humidity maximum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,rh_min,time,float32,%,,relative_humidity minimum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,wd,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ws,time,float32,m.s^-1,wind_speed,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,dxi,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,cumul_precip,time,float32,mm,precipitation_amount,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,visi,time,float32,m,visibility_in_air,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,soil_st,time,float32,code,,soil state,-1.0,-1.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,snow_height,time,float32,m,surface_snow_thickness,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,insolh_duration,time,float32,mn,,duration of insolation,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,pres,time,float32,Pa,air_pressure,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS-DOUBLE_MTO-1H_2025-08-10\75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,td,time,float32,Kelvin,dew_point_temperature,,267.1499938964844,296.45001220703125
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ta,time,float32,Kelvin,air_temperature,,270.8500061035156,314.8500061035156
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,271.04998779296875,315.75
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,270.75,314.75
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,rh,time,float32,%,relative_humidity,,17.0,98.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,rh_max,time,float32,%,,relative_humidity maximum,19.0,99.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,rh_min,time,float32,%,,relative_humidity minimum,15.0,98.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,wd,time,float32,degree,wind_from_direction,,0.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ws,time,float32,m.s^-1,wind_speed,,0.0,10.5
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,dxi,time,float32,degree,wind_from_direction,,10.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,0.8999999761581421,24.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,10.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,0.6000000238418579,11.399999618530273
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,cumul_precip,time,float32,mm,precipitation_amount,,0.0,26.299999237060547
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,275.75,301.1499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,276.45001220703125,299.3500061035156
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,278.3500061035156,295.45001220703125
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,280.04998779296875,292.45001220703125
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,visi,time,float32,m,visibility_in_air,,243.0,20000.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,soil_st,time,float32,code,,soil state,-1.0,-1.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,snow_height,time,float32,m,surface_snow_thickness,,0.0,0.05000000074505806
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,insolh_duration,time,float32,mn,,duration of insolation,0.0,60.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,0.0,3440000.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,pres,time,float32,Pa,air_pressure,,96830.0,103190.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,97750.0,104180.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,td,time,float32,Kelvin,dew_point_temperature,,264.54998779296875,292.75
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ta,time,float32,Kelvin,air_temperature,,268.1499938964844,313.54998779296875
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,268.3500061035156,313.6499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,268.1499938964844,313.1499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,rh,time,float32,%,relative_humidity,,15.0,98.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,rh_max,time,float32,%,,relative_humidity maximum,20.0,98.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,rh_min,time,float32,%,,relative_humidity minimum,15.0,98.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,wd,time,float32,degree,wind_from_direction,,0.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ws,time,float32,m.s^-1,wind_speed,,0.0,9.300000190734863
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,dxi,time,float32,degree,wind_from_direction,,10.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,0.800000011920929,26.200000762939453
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,10.0,360.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,0.6000000238418579,11.899999618530273
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,cumul_precip,time,float32,mm,precipitation_amount,,0.0,39.099998474121094
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,274.95001220703125,300.95001220703125
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,275.6499938964844,298.95001220703125
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,278.3500061035156,295.54998779296875
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,280.54998779296875,293.25
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,visi,time,float32,m,visibility_in_air,,304.0,20000.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,soil_st,time,float32,code,,soil state,-1.0,-1.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,snow_height,time,float32,m,surface_snow_thickness,,0.0,0.009999999776482582
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,insolh_duration,time,float32,mn,,duration of insolation,0.0,60.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,0.0,3500000.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,pres,time,float32,Pa,air_pressure,,97790.0,103220.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\PARIS-MONTSOURIS_MTO-1H_2025-08-10\75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,98700.0,104220.0
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,td,time,float32,Kelvin,dew_point_temperature,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ta,time,float32,Kelvin,air_temperature,,269.45001220703125,316.45001220703125
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,269.75,316.75
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,269.3500061035156,315.54998779296875
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,rh,time,float32,%,relative_humidity,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,rh_max,time,float32,%,,relative_humidity maximum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,rh_min,time,float32,%,,relative_humidity minimum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,wd,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ws,time,float32,m.s^-1,wind_speed,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,dxi,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,cumul_precip,time,float32,mm,precipitation_amount,,0.0,22.299999237060547
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,visi,time,float32,m,visibility_in_air,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,soil_st,time,float32,code,,soil state,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,snow_height,time,float32,m,surface_snow_thickness,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,insolh_duration,time,float32,mn,,duration of insolation,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,pres,time,float32,Pa,air_pressure,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2019.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,td,time,float32,Kelvin,dew_point_temperature,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ta,time,float32,Kelvin,air_temperature,,266.8500061035156,314.54998779296875
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ta_max,time,float32,Kelvin,,air_temperature maximum,266.95001220703125,314.6499938964844
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ta_min,time,float32,Kelvin,,air_temperature minimum,266.75,313.75
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,rh,time,float32,%,relative_humidity,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,rh_max,time,float32,%,,relative_humidity maximum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,rh_min,time,float32,%,,relative_humidity minimum,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,wd,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ws,time,float32,m.s^-1,wind_speed,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,dxi,time,float32,degree,wind_from_direction,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ws_max,time,float32,m.s^-1,wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,dxy,time,float32,degree,maximal_direction_mean_wind,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,mws_max,time,float32,m.s^-1,mean_wind_speed_of_gust,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,cumul_precip,time,float32,mm,precipitation_amount,,0.0,16.799999237060547
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ts_10,time,float32,Kelvin,,soil temperature at -10cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ts_20,time,float32,Kelvin,,soil temperature at -20cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ts_50,time,float32,Kelvin,,soil temperature at -50cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,ts_100,time,float32,Kelvin,,soil temperature at -100cm,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,visi,time,float32,m,visibility_in_air,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,soil_st,time,float32,code,,soil state,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,snow_height,time,float32,m,surface_snow_thickness,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,nebulosity,time,float32,octa,,total nebulosity in octa,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,insolh_duration,time,float32,mn,,duration of insolation,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,glo,time,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,pres,time,float32,Pa,air_pressure,,,
+D:\PPT_Word_Exel\2025\Final_Project\WorkSpace2\aeris\unzipped\ST-MAUR_MTO-1H_2025-08-12\94068001_ST-MAUR_MTO_1H_2022.nc,pres_sl,time,float32,Pa,air_pressure_at_sea_level,,,

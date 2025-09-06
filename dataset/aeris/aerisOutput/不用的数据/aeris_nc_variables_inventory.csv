@@ -1,0 +1,435 @@
+﻿file,var,dims,dtype,units,standard_name,long_name
+75110001_LARIBOISIERE_MTO_1H_2019.nc,td,4019,float32,Kelvin,dew_point_temperature,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ta,4019,float32,Kelvin,air_temperature,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ta_max,4019,float32,Kelvin,,air_temperature maximum
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ta_min,4019,float32,Kelvin,,air_temperature minimum
+75110001_LARIBOISIERE_MTO_1H_2019.nc,rh,4019,float32,%,relative_humidity,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,rh_max,4019,float32,%,,relative_humidity maximum
+75110001_LARIBOISIERE_MTO_1H_2019.nc,rh_min,4019,float32,%,,relative_humidity minimum
+75110001_LARIBOISIERE_MTO_1H_2019.nc,wd,4019,float32,degree,wind_from_direction,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ws,4019,float32,m.s^-1,wind_speed,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,dxi,4019,float32,degree,wind_from_direction,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ws_max,4019,float32,m.s^-1,wind_speed_of_gust,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,dxy,4019,float32,degree,maximal_direction_mean_wind,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,mws_max,4019,float32,m.s^-1,mean_wind_speed_of_gust,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,cumul_precip,4019,float32,mm,precipitation_amount,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ts_10,4019,float32,Kelvin,,soil temperature at -10cm
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ts_20,4019,float32,Kelvin,,soil temperature at -20cm
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ts_50,4019,float32,Kelvin,,soil temperature at -50cm
+75110001_LARIBOISIERE_MTO_1H_2019.nc,ts_100,4019,float32,Kelvin,,soil temperature at -100cm
+75110001_LARIBOISIERE_MTO_1H_2019.nc,visi,4019,float32,m,visibility_in_air,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,soil_st,4019,float32,code,,soil state
+75110001_LARIBOISIERE_MTO_1H_2019.nc,snow_height,4019,float32,m,surface_snow_thickness,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,nebulosity,4019,float32,octa,,total nebulosity in octa
+75110001_LARIBOISIERE_MTO_1H_2019.nc,insolh_duration,4019,float32,mn,,duration of insolation
+75110001_LARIBOISIERE_MTO_1H_2019.nc,glo,4019,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,pres,4019,float32,Pa,air_pressure,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,pres_sl,4019,float32,Pa,air_pressure_at_sea_level,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,time,4019,datetime64[ns],,time,
+75110001_LARIBOISIERE_MTO_1H_2019.nc,station_name,,|S12,,,timeseries_id
+75110001_LARIBOISIERE_MTO_1H_2019.nc,lon,,float32,degrees_east,longitude,station longitude
+75110001_LARIBOISIERE_MTO_1H_2019.nc,lat,,float32,degrees_north,latitude,station latitude
+75110001_LARIBOISIERE_MTO_1H_2019.nc,alt,,float32,m,height,vertical distance above the sea surface
+75110001_LARIBOISIERE_MTO_1H_2022.nc,td,8760,float32,Kelvin,dew_point_temperature,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ta,8760,float32,Kelvin,air_temperature,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+75110001_LARIBOISIERE_MTO_1H_2022.nc,rh,8760,float32,%,relative_humidity,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,rh_max,8760,float32,%,,relative_humidity maximum
+75110001_LARIBOISIERE_MTO_1H_2022.nc,rh_min,8760,float32,%,,relative_humidity minimum
+75110001_LARIBOISIERE_MTO_1H_2022.nc,wd,8760,float32,degree,wind_from_direction,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ws,8760,float32,m.s^-1,wind_speed,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,dxi,8760,float32,degree,wind_from_direction,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+75110001_LARIBOISIERE_MTO_1H_2022.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+75110001_LARIBOISIERE_MTO_1H_2022.nc,visi,8760,float32,m,visibility_in_air,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,soil_st,8760,float32,code,,soil state
+75110001_LARIBOISIERE_MTO_1H_2022.nc,snow_height,8760,float32,m,surface_snow_thickness,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+75110001_LARIBOISIERE_MTO_1H_2022.nc,insolh_duration,8760,float32,mn,,duration of insolation
+75110001_LARIBOISIERE_MTO_1H_2022.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,pres,8760,float32,Pa,air_pressure,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,time,8760,datetime64[ns],,time,
+75110001_LARIBOISIERE_MTO_1H_2022.nc,station_name,,|S12,,,timeseries_id
+75110001_LARIBOISIERE_MTO_1H_2022.nc,lon,,float32,degrees_east,longitude,station longitude
+75110001_LARIBOISIERE_MTO_1H_2022.nc,lat,,float32,degrees_north,latitude,station latitude
+75110001_LARIBOISIERE_MTO_1H_2022.nc,alt,,float32,m,height,vertical distance above the sea surface
+75116008_LONGCHAMP_MTO_1H_2019.nc,td,8456,float32,Kelvin,dew_point_temperature,
+75116008_LONGCHAMP_MTO_1H_2019.nc,ta,8456,float32,Kelvin,air_temperature,
+75116008_LONGCHAMP_MTO_1H_2019.nc,ta_max,8456,float32,Kelvin,,air_temperature maximum
+75116008_LONGCHAMP_MTO_1H_2019.nc,ta_min,8456,float32,Kelvin,,air_temperature minimum
+75116008_LONGCHAMP_MTO_1H_2019.nc,rh,8456,float32,%,relative_humidity,
+75116008_LONGCHAMP_MTO_1H_2019.nc,rh_max,8456,float32,%,,relative_humidity maximum
+75116008_LONGCHAMP_MTO_1H_2019.nc,rh_min,8456,float32,%,,relative_humidity minimum
+75116008_LONGCHAMP_MTO_1H_2019.nc,wd,8456,float32,degree,wind_from_direction,
+75116008_LONGCHAMP_MTO_1H_2019.nc,ws,8456,float32,m.s^-1,wind_speed,
+75116008_LONGCHAMP_MTO_1H_2019.nc,dxi,8456,float32,degree,wind_from_direction,
+75116008_LONGCHAMP_MTO_1H_2019.nc,ws_max,8456,float32,m.s^-1,wind_speed_of_gust,
+75116008_LONGCHAMP_MTO_1H_2019.nc,dxy,8456,float32,degree,maximal_direction_mean_wind,
+75116008_LONGCHAMP_MTO_1H_2019.nc,mws_max,8456,float32,m.s^-1,mean_wind_speed_of_gust,
+75116008_LONGCHAMP_MTO_1H_2019.nc,cumul_precip,8456,float32,mm,precipitation_amount,
+75116008_LONGCHAMP_MTO_1H_2019.nc,ts_10,8456,float32,Kelvin,,soil temperature at -10cm
+75116008_LONGCHAMP_MTO_1H_2019.nc,ts_20,8456,float32,Kelvin,,soil temperature at -20cm
+75116008_LONGCHAMP_MTO_1H_2019.nc,ts_50,8456,float32,Kelvin,,soil temperature at -50cm
+75116008_LONGCHAMP_MTO_1H_2019.nc,ts_100,8456,float32,Kelvin,,soil temperature at -100cm
+75116008_LONGCHAMP_MTO_1H_2019.nc,visi,8456,float32,m,visibility_in_air,
+75116008_LONGCHAMP_MTO_1H_2019.nc,soil_st,8456,float32,code,,soil state
+75116008_LONGCHAMP_MTO_1H_2019.nc,snow_height,8456,float32,m,surface_snow_thickness,
+75116008_LONGCHAMP_MTO_1H_2019.nc,nebulosity,8456,float32,octa,,total nebulosity in octa
+75116008_LONGCHAMP_MTO_1H_2019.nc,insolh_duration,8456,float32,mn,,duration of insolation
+75116008_LONGCHAMP_MTO_1H_2019.nc,glo,8456,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75116008_LONGCHAMP_MTO_1H_2019.nc,pres,8456,float32,Pa,air_pressure,
+75116008_LONGCHAMP_MTO_1H_2019.nc,pres_sl,8456,float32,Pa,air_pressure_at_sea_level,
+75116008_LONGCHAMP_MTO_1H_2019.nc,time,8456,datetime64[ns],,time,
+75116008_LONGCHAMP_MTO_1H_2019.nc,station_name,,|S9,,,timeseries_id
+75116008_LONGCHAMP_MTO_1H_2019.nc,lon,,float32,degrees_east,longitude,station longitude
+75116008_LONGCHAMP_MTO_1H_2019.nc,lat,,float32,degrees_north,latitude,station latitude
+75116008_LONGCHAMP_MTO_1H_2019.nc,alt,,float32,m,height,vertical distance above the sea surface
+75116008_LONGCHAMP_MTO_1H_2022.nc,td,8760,float32,Kelvin,dew_point_temperature,
+75116008_LONGCHAMP_MTO_1H_2022.nc,ta,8760,float32,Kelvin,air_temperature,
+75116008_LONGCHAMP_MTO_1H_2022.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+75116008_LONGCHAMP_MTO_1H_2022.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+75116008_LONGCHAMP_MTO_1H_2022.nc,rh,8760,float32,%,relative_humidity,
+75116008_LONGCHAMP_MTO_1H_2022.nc,rh_max,8760,float32,%,,relative_humidity maximum
+75116008_LONGCHAMP_MTO_1H_2022.nc,rh_min,8760,float32,%,,relative_humidity minimum
+75116008_LONGCHAMP_MTO_1H_2022.nc,wd,8760,float32,degree,wind_from_direction,
+75116008_LONGCHAMP_MTO_1H_2022.nc,ws,8760,float32,m.s^-1,wind_speed,
+75116008_LONGCHAMP_MTO_1H_2022.nc,dxi,8760,float32,degree,wind_from_direction,
+75116008_LONGCHAMP_MTO_1H_2022.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+75116008_LONGCHAMP_MTO_1H_2022.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+75116008_LONGCHAMP_MTO_1H_2022.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+75116008_LONGCHAMP_MTO_1H_2022.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+75116008_LONGCHAMP_MTO_1H_2022.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+75116008_LONGCHAMP_MTO_1H_2022.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+75116008_LONGCHAMP_MTO_1H_2022.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+75116008_LONGCHAMP_MTO_1H_2022.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+75116008_LONGCHAMP_MTO_1H_2022.nc,visi,8760,float32,m,visibility_in_air,
+75116008_LONGCHAMP_MTO_1H_2022.nc,soil_st,8760,float32,code,,soil state
+75116008_LONGCHAMP_MTO_1H_2022.nc,snow_height,8760,float32,m,surface_snow_thickness,
+75116008_LONGCHAMP_MTO_1H_2022.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+75116008_LONGCHAMP_MTO_1H_2022.nc,insolh_duration,8760,float32,mn,,duration of insolation
+75116008_LONGCHAMP_MTO_1H_2022.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75116008_LONGCHAMP_MTO_1H_2022.nc,pres,8760,float32,Pa,air_pressure,
+75116008_LONGCHAMP_MTO_1H_2022.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+75116008_LONGCHAMP_MTO_1H_2022.nc,time,8760,datetime64[ns],,time,
+75116008_LONGCHAMP_MTO_1H_2022.nc,station_name,,|S9,,,timeseries_id
+75116008_LONGCHAMP_MTO_1H_2022.nc,lon,,float32,degrees_east,longitude,station longitude
+75116008_LONGCHAMP_MTO_1H_2022.nc,lat,,float32,degrees_north,latitude,station latitude
+75116008_LONGCHAMP_MTO_1H_2022.nc,alt,,float32,m,height,vertical distance above the sea surface
+75106001_LUXEMBOURG_MTO_1H_2019.nc,td,8760,float32,Kelvin,dew_point_temperature,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ta,8760,float32,Kelvin,air_temperature,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+75106001_LUXEMBOURG_MTO_1H_2019.nc,rh,8760,float32,%,relative_humidity,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,rh_max,8760,float32,%,,relative_humidity maximum
+75106001_LUXEMBOURG_MTO_1H_2019.nc,rh_min,8760,float32,%,,relative_humidity minimum
+75106001_LUXEMBOURG_MTO_1H_2019.nc,wd,8760,float32,degree,wind_from_direction,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ws,8760,float32,m.s^-1,wind_speed,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,dxi,8760,float32,degree,wind_from_direction,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+75106001_LUXEMBOURG_MTO_1H_2019.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+75106001_LUXEMBOURG_MTO_1H_2019.nc,visi,8760,float32,m,visibility_in_air,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,soil_st,8760,float32,code,,soil state
+75106001_LUXEMBOURG_MTO_1H_2019.nc,snow_height,8760,float32,m,surface_snow_thickness,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+75106001_LUXEMBOURG_MTO_1H_2019.nc,insolh_duration,8760,float32,mn,,duration of insolation
+75106001_LUXEMBOURG_MTO_1H_2019.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,pres,8760,float32,Pa,air_pressure,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,time,8760,datetime64[ns],,time,
+75106001_LUXEMBOURG_MTO_1H_2019.nc,station_name,,|S10,,,timeseries_id
+75106001_LUXEMBOURG_MTO_1H_2019.nc,lon,,float32,degrees_east,longitude,station longitude
+75106001_LUXEMBOURG_MTO_1H_2019.nc,lat,,float32,degrees_north,latitude,station latitude
+75106001_LUXEMBOURG_MTO_1H_2019.nc,alt,,float32,m,height,vertical distance above the sea surface
+75106001_LUXEMBOURG_MTO_1H_2022.nc,td,8760,float32,Kelvin,dew_point_temperature,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ta,8760,float32,Kelvin,air_temperature,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+75106001_LUXEMBOURG_MTO_1H_2022.nc,rh,8760,float32,%,relative_humidity,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,rh_max,8760,float32,%,,relative_humidity maximum
+75106001_LUXEMBOURG_MTO_1H_2022.nc,rh_min,8760,float32,%,,relative_humidity minimum
+75106001_LUXEMBOURG_MTO_1H_2022.nc,wd,8760,float32,degree,wind_from_direction,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ws,8760,float32,m.s^-1,wind_speed,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,dxi,8760,float32,degree,wind_from_direction,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+75106001_LUXEMBOURG_MTO_1H_2022.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+75106001_LUXEMBOURG_MTO_1H_2022.nc,visi,8760,float32,m,visibility_in_air,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,soil_st,8760,float32,code,,soil state
+75106001_LUXEMBOURG_MTO_1H_2022.nc,snow_height,8760,float32,m,surface_snow_thickness,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+75106001_LUXEMBOURG_MTO_1H_2022.nc,insolh_duration,8760,float32,mn,,duration of insolation
+75106001_LUXEMBOURG_MTO_1H_2022.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,pres,8760,float32,Pa,air_pressure,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,time,8760,datetime64[ns],,time,
+75106001_LUXEMBOURG_MTO_1H_2022.nc,station_name,,|S10,,,timeseries_id
+75106001_LUXEMBOURG_MTO_1H_2022.nc,lon,,float32,degrees_east,longitude,station longitude
+75106001_LUXEMBOURG_MTO_1H_2022.nc,lat,,float32,degrees_north,latitude,station latitude
+75106001_LUXEMBOURG_MTO_1H_2022.nc,alt,,float32,m,height,vertical distance above the sea surface
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,td,8760,float32,Kelvin,dew_point_temperature,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ta,8760,float32,Kelvin,air_temperature,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,rh,8760,float32,%,relative_humidity,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,rh_max,8760,float32,%,,relative_humidity maximum
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,rh_min,8760,float32,%,,relative_humidity minimum
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,wd,8760,float32,degree,wind_from_direction,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ws,8760,float32,m.s^-1,wind_speed,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,dxi,8760,float32,degree,wind_from_direction,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,visi,8760,float32,m,visibility_in_air,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,soil_st,8760,float32,code,,soil state
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,snow_height,8760,float32,m,surface_snow_thickness,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,insolh_duration,8760,float32,mn,,duration of insolation
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,pres,8760,float32,Pa,air_pressure,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,time,8760,datetime64[ns],,time,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,station_name,,|S23,,,timeseries_id
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,lon,,float32,degrees_east,longitude,station longitude
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,lat,,float32,degrees_north,latitude,station latitude
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2019.nc,alt,,float32,m,height,vertical distance above the sea surface
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,td,8760,float32,Kelvin,dew_point_temperature,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ta,8760,float32,Kelvin,air_temperature,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,rh,8760,float32,%,relative_humidity,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,rh_max,8760,float32,%,,relative_humidity maximum
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,rh_min,8760,float32,%,,relative_humidity minimum
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,wd,8760,float32,degree,wind_from_direction,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ws,8760,float32,m.s^-1,wind_speed,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,dxi,8760,float32,degree,wind_from_direction,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,visi,8760,float32,m,visibility_in_air,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,soil_st,8760,float32,code,,soil state
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,snow_height,8760,float32,m,surface_snow_thickness,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,insolh_duration,8760,float32,mn,,duration of insolation
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,pres,8760,float32,Pa,air_pressure,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,time,8760,datetime64[ns],,time,
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,station_name,,|S23,,,timeseries_id
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,lon,,float32,degrees_east,longitude,station longitude
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,lat,,float32,degrees_north,latitude,station latitude
+75114007_PARIS-MONTSOURIS-DOUBLE_MTO_1H_2022.nc,alt,,float32,m,height,vertical distance above the sea surface
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,td,8760,float32,Kelvin,dew_point_temperature,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ta,8760,float32,Kelvin,air_temperature,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,rh,8760,float32,%,relative_humidity,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,rh_max,8760,float32,%,,relative_humidity maximum
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,rh_min,8760,float32,%,,relative_humidity minimum
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,wd,8760,float32,degree,wind_from_direction,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ws,8760,float32,m.s^-1,wind_speed,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,dxi,8760,float32,degree,wind_from_direction,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,visi,8760,float32,m,visibility_in_air,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,soil_st,8760,float32,code,,soil state
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,snow_height,8760,float32,m,surface_snow_thickness,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,insolh_duration,8760,float32,mn,,duration of insolation
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,pres,8760,float32,Pa,air_pressure,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,time,8760,datetime64[ns],,time,
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,station_name,,|S16,,,timeseries_id
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,lon,,float32,degrees_east,longitude,station longitude
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,lat,,float32,degrees_north,latitude,station latitude
+75114001_PARIS-MONTSOURIS_MTO_1H_2019.nc,alt,,float32,m,height,vertical distance above the sea surface
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,td,8760,float32,Kelvin,dew_point_temperature,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ta,8760,float32,Kelvin,air_temperature,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,rh,8760,float32,%,relative_humidity,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,rh_max,8760,float32,%,,relative_humidity maximum
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,rh_min,8760,float32,%,,relative_humidity minimum
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,wd,8760,float32,degree,wind_from_direction,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ws,8760,float32,m.s^-1,wind_speed,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,dxi,8760,float32,degree,wind_from_direction,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,visi,8760,float32,m,visibility_in_air,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,soil_st,8760,float32,code,,soil state
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,snow_height,8760,float32,m,surface_snow_thickness,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,insolh_duration,8760,float32,mn,,duration of insolation
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,pres,8760,float32,Pa,air_pressure,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,time,8760,datetime64[ns],,time,
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,station_name,,|S16,,,timeseries_id
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,lon,,float32,degrees_east,longitude,station longitude
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,lat,,float32,degrees_north,latitude,station latitude
+75114001_PARIS-MONTSOURIS_MTO_1H_2022.nc,alt,,float32,m,height,vertical distance above the sea surface
+94068001_ST-MAUR_MTO_1H_2019.nc,td,8760,float32,Kelvin,dew_point_temperature,
+94068001_ST-MAUR_MTO_1H_2019.nc,ta,8760,float32,Kelvin,air_temperature,
+94068001_ST-MAUR_MTO_1H_2019.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+94068001_ST-MAUR_MTO_1H_2019.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+94068001_ST-MAUR_MTO_1H_2019.nc,rh,8760,float32,%,relative_humidity,
+94068001_ST-MAUR_MTO_1H_2019.nc,rh_max,8760,float32,%,,relative_humidity maximum
+94068001_ST-MAUR_MTO_1H_2019.nc,rh_min,8760,float32,%,,relative_humidity minimum
+94068001_ST-MAUR_MTO_1H_2019.nc,wd,8760,float32,degree,wind_from_direction,
+94068001_ST-MAUR_MTO_1H_2019.nc,ws,8760,float32,m.s^-1,wind_speed,
+94068001_ST-MAUR_MTO_1H_2019.nc,dxi,8760,float32,degree,wind_from_direction,
+94068001_ST-MAUR_MTO_1H_2019.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+94068001_ST-MAUR_MTO_1H_2019.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+94068001_ST-MAUR_MTO_1H_2019.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+94068001_ST-MAUR_MTO_1H_2019.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+94068001_ST-MAUR_MTO_1H_2019.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+94068001_ST-MAUR_MTO_1H_2019.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+94068001_ST-MAUR_MTO_1H_2019.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+94068001_ST-MAUR_MTO_1H_2019.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+94068001_ST-MAUR_MTO_1H_2019.nc,visi,8760,float32,m,visibility_in_air,
+94068001_ST-MAUR_MTO_1H_2019.nc,soil_st,8760,float32,code,,soil state
+94068001_ST-MAUR_MTO_1H_2019.nc,snow_height,8760,float32,m,surface_snow_thickness,
+94068001_ST-MAUR_MTO_1H_2019.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+94068001_ST-MAUR_MTO_1H_2019.nc,insolh_duration,8760,float32,mn,,duration of insolation
+94068001_ST-MAUR_MTO_1H_2019.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+94068001_ST-MAUR_MTO_1H_2019.nc,pres,8760,float32,Pa,air_pressure,
+94068001_ST-MAUR_MTO_1H_2019.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+94068001_ST-MAUR_MTO_1H_2019.nc,time,8760,datetime64[ns],,time,
+94068001_ST-MAUR_MTO_1H_2019.nc,station_name,,|S7,,,timeseries_id
+94068001_ST-MAUR_MTO_1H_2019.nc,lon,,float32,degrees_east,longitude,station longitude
+94068001_ST-MAUR_MTO_1H_2019.nc,lat,,float32,degrees_north,latitude,station latitude
+94068001_ST-MAUR_MTO_1H_2019.nc,alt,,float32,m,height,vertical distance above the sea surface
+94068001_ST-MAUR_MTO_1H_2022.nc,td,8760,float32,Kelvin,dew_point_temperature,
+94068001_ST-MAUR_MTO_1H_2022.nc,ta,8760,float32,Kelvin,air_temperature,
+94068001_ST-MAUR_MTO_1H_2022.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+94068001_ST-MAUR_MTO_1H_2022.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+94068001_ST-MAUR_MTO_1H_2022.nc,rh,8760,float32,%,relative_humidity,
+94068001_ST-MAUR_MTO_1H_2022.nc,rh_max,8760,float32,%,,relative_humidity maximum
+94068001_ST-MAUR_MTO_1H_2022.nc,rh_min,8760,float32,%,,relative_humidity minimum
+94068001_ST-MAUR_MTO_1H_2022.nc,wd,8760,float32,degree,wind_from_direction,
+94068001_ST-MAUR_MTO_1H_2022.nc,ws,8760,float32,m.s^-1,wind_speed,
+94068001_ST-MAUR_MTO_1H_2022.nc,dxi,8760,float32,degree,wind_from_direction,
+94068001_ST-MAUR_MTO_1H_2022.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+94068001_ST-MAUR_MTO_1H_2022.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+94068001_ST-MAUR_MTO_1H_2022.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+94068001_ST-MAUR_MTO_1H_2022.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+94068001_ST-MAUR_MTO_1H_2022.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+94068001_ST-MAUR_MTO_1H_2022.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+94068001_ST-MAUR_MTO_1H_2022.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+94068001_ST-MAUR_MTO_1H_2022.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+94068001_ST-MAUR_MTO_1H_2022.nc,visi,8760,float32,m,visibility_in_air,
+94068001_ST-MAUR_MTO_1H_2022.nc,soil_st,8760,float32,code,,soil state
+94068001_ST-MAUR_MTO_1H_2022.nc,snow_height,8760,float32,m,surface_snow_thickness,
+94068001_ST-MAUR_MTO_1H_2022.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+94068001_ST-MAUR_MTO_1H_2022.nc,insolh_duration,8760,float32,mn,,duration of insolation
+94068001_ST-MAUR_MTO_1H_2022.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+94068001_ST-MAUR_MTO_1H_2022.nc,pres,8760,float32,Pa,air_pressure,
+94068001_ST-MAUR_MTO_1H_2022.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+94068001_ST-MAUR_MTO_1H_2022.nc,time,8760,datetime64[ns],,time,
+94068001_ST-MAUR_MTO_1H_2022.nc,station_name,,|S7,,,timeseries_id
+94068001_ST-MAUR_MTO_1H_2022.nc,lon,,float32,degrees_east,longitude,station longitude
+94068001_ST-MAUR_MTO_1H_2022.nc,lat,,float32,degrees_north,latitude,station latitude
+94068001_ST-MAUR_MTO_1H_2022.nc,alt,,float32,m,height,vertical distance above the sea surface
+92073001_SURESNES_MTO_1H_2019.nc,td,300,float32,Kelvin,dew_point_temperature,
+92073001_SURESNES_MTO_1H_2019.nc,ta,300,float32,Kelvin,air_temperature,
+92073001_SURESNES_MTO_1H_2019.nc,ta_max,300,float32,Kelvin,,air_temperature maximum
+92073001_SURESNES_MTO_1H_2019.nc,ta_min,300,float32,Kelvin,,air_temperature minimum
+92073001_SURESNES_MTO_1H_2019.nc,rh,300,float32,%,relative_humidity,
+92073001_SURESNES_MTO_1H_2019.nc,rh_max,300,float32,%,,relative_humidity maximum
+92073001_SURESNES_MTO_1H_2019.nc,rh_min,300,float32,%,,relative_humidity minimum
+92073001_SURESNES_MTO_1H_2019.nc,wd,300,float32,degree,wind_from_direction,
+92073001_SURESNES_MTO_1H_2019.nc,ws,300,float32,m.s^-1,wind_speed,
+92073001_SURESNES_MTO_1H_2019.nc,dxi,300,float32,degree,wind_from_direction,
+92073001_SURESNES_MTO_1H_2019.nc,ws_max,300,float32,m.s^-1,wind_speed_of_gust,
+92073001_SURESNES_MTO_1H_2019.nc,dxy,300,float32,degree,maximal_direction_mean_wind,
+92073001_SURESNES_MTO_1H_2019.nc,mws_max,300,float32,m.s^-1,mean_wind_speed_of_gust,
+92073001_SURESNES_MTO_1H_2019.nc,cumul_precip,300,float32,mm,precipitation_amount,
+92073001_SURESNES_MTO_1H_2019.nc,ts_10,300,float32,Kelvin,,soil temperature at -10cm
+92073001_SURESNES_MTO_1H_2019.nc,ts_20,300,float32,Kelvin,,soil temperature at -20cm
+92073001_SURESNES_MTO_1H_2019.nc,ts_50,300,float32,Kelvin,,soil temperature at -50cm
+92073001_SURESNES_MTO_1H_2019.nc,ts_100,300,float32,Kelvin,,soil temperature at -100cm
+92073001_SURESNES_MTO_1H_2019.nc,visi,300,float32,m,visibility_in_air,
+92073001_SURESNES_MTO_1H_2019.nc,soil_st,300,float32,code,,soil state
+92073001_SURESNES_MTO_1H_2019.nc,snow_height,300,float32,m,surface_snow_thickness,
+92073001_SURESNES_MTO_1H_2019.nc,nebulosity,300,float32,octa,,total nebulosity in octa
+92073001_SURESNES_MTO_1H_2019.nc,insolh_duration,300,float32,mn,,duration of insolation
+92073001_SURESNES_MTO_1H_2019.nc,glo,300,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+92073001_SURESNES_MTO_1H_2019.nc,pres,300,float32,Pa,air_pressure,
+92073001_SURESNES_MTO_1H_2019.nc,pres_sl,300,float32,Pa,air_pressure_at_sea_level,
+92073001_SURESNES_MTO_1H_2019.nc,time,300,datetime64[ns],,time,
+92073001_SURESNES_MTO_1H_2019.nc,station_name,,|S8,,,timeseries_id
+92073001_SURESNES_MTO_1H_2019.nc,lon,,float32,degrees_east,longitude,station longitude
+92073001_SURESNES_MTO_1H_2019.nc,lat,,float32,degrees_north,latitude,station latitude
+92073001_SURESNES_MTO_1H_2019.nc,alt,,float32,m,height,vertical distance above the sea surface
+92073001_SURESNES_MTO_1H_2022.nc,td,8760,float32,Kelvin,dew_point_temperature,
+92073001_SURESNES_MTO_1H_2022.nc,ta,8760,float32,Kelvin,air_temperature,
+92073001_SURESNES_MTO_1H_2022.nc,ta_max,8760,float32,Kelvin,,air_temperature maximum
+92073001_SURESNES_MTO_1H_2022.nc,ta_min,8760,float32,Kelvin,,air_temperature minimum
+92073001_SURESNES_MTO_1H_2022.nc,rh,8760,float32,%,relative_humidity,
+92073001_SURESNES_MTO_1H_2022.nc,rh_max,8760,float32,%,,relative_humidity maximum
+92073001_SURESNES_MTO_1H_2022.nc,rh_min,8760,float32,%,,relative_humidity minimum
+92073001_SURESNES_MTO_1H_2022.nc,wd,8760,float32,degree,wind_from_direction,
+92073001_SURESNES_MTO_1H_2022.nc,ws,8760,float32,m.s^-1,wind_speed,
+92073001_SURESNES_MTO_1H_2022.nc,dxi,8760,float32,degree,wind_from_direction,
+92073001_SURESNES_MTO_1H_2022.nc,ws_max,8760,float32,m.s^-1,wind_speed_of_gust,
+92073001_SURESNES_MTO_1H_2022.nc,dxy,8760,float32,degree,maximal_direction_mean_wind,
+92073001_SURESNES_MTO_1H_2022.nc,mws_max,8760,float32,m.s^-1,mean_wind_speed_of_gust,
+92073001_SURESNES_MTO_1H_2022.nc,cumul_precip,8760,float32,mm,precipitation_amount,
+92073001_SURESNES_MTO_1H_2022.nc,ts_10,8760,float32,Kelvin,,soil temperature at -10cm
+92073001_SURESNES_MTO_1H_2022.nc,ts_20,8760,float32,Kelvin,,soil temperature at -20cm
+92073001_SURESNES_MTO_1H_2022.nc,ts_50,8760,float32,Kelvin,,soil temperature at -50cm
+92073001_SURESNES_MTO_1H_2022.nc,ts_100,8760,float32,Kelvin,,soil temperature at -100cm
+92073001_SURESNES_MTO_1H_2022.nc,visi,8760,float32,m,visibility_in_air,
+92073001_SURESNES_MTO_1H_2022.nc,soil_st,8760,float32,code,,soil state
+92073001_SURESNES_MTO_1H_2022.nc,snow_height,8760,float32,m,surface_snow_thickness,
+92073001_SURESNES_MTO_1H_2022.nc,nebulosity,8760,float32,octa,,total nebulosity in octa
+92073001_SURESNES_MTO_1H_2022.nc,insolh_duration,8760,float32,mn,,duration of insolation
+92073001_SURESNES_MTO_1H_2022.nc,glo,8760,float32,J.m-2,integral_of_surface_downwelling_shortwave_flux_in_air_wrt_time,
+92073001_SURESNES_MTO_1H_2022.nc,pres,8760,float32,Pa,air_pressure,
+92073001_SURESNES_MTO_1H_2022.nc,pres_sl,8760,float32,Pa,air_pressure_at_sea_level,
+92073001_SURESNES_MTO_1H_2022.nc,time,8760,datetime64[ns],,time,
+92073001_SURESNES_MTO_1H_2022.nc,station_name,,|S8,,,timeseries_id
+92073001_SURESNES_MTO_1H_2022.nc,lon,,float32,degrees_east,longitude,station longitude
+92073001_SURESNES_MTO_1H_2022.nc,lat,,float32,degrees_north,latitude,station latitude
+92073001_SURESNES_MTO_1H_2022.nc,alt,,float32,m,height,vertical distance above the sea surface
